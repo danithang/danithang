@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on becoming a Frontend Developer.
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript.
-- 📫 How to reach me: 
-  Email: astraberry82@gmail.com
+- 📫 How to reach me: </br>
+  Email: astraberry82@gmail.com </br>
   LinkedIn: www.linkedin.com/in/astra-berry-ab48aa94
 - ⚡ Fun fact: I love to Crochet!
