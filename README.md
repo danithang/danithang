@@ -5,5 +5,4 @@
 - Fun fact: I love to Crochet!
 - Email: astraberry82@gmail.com
 - LinkedIn: www.linkedin.com/in/astra-berry-ab48aa94
-- Website: https://astraberry.super.site
 
